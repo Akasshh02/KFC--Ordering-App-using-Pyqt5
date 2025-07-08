@@ -1,10 +1,10 @@
-🍗 KFC Ordering App using Pyqt5
+🍗 **KFC Ordering App using Pyqt5**
 
 A clean, responsive PyQt5 application that replicates the feel of a mobile food ordering system—designed for restaurant use, with category-based navigation, item selection, and order summary confirmation.
 
 ---
 
-🚀 Features
+🚀 **Features**
 
 - 📱 Mobile-style page transitions (Home → Menu → Summary)
 - 🖼️ Branded home screen with logo and category buttons
@@ -15,7 +15,7 @@ A clean, responsive PyQt5 application that replicates the feel of a mobile food 
 
 ---
 
-🔧 Tech Stack
+🔧 **Tech Stack**
 
 - **Python 3.x**
 - **PyQt5** for GUI development
@@ -23,7 +23,7 @@ A clean, responsive PyQt5 application that replicates the feel of a mobile food 
 
 ---
 
-## 📸 Screenshots
+## 📸 **Screenshots**
 
 ### 🏠 Home Page
 
@@ -37,9 +37,15 @@ A clean, responsive PyQt5 application that replicates the feel of a mobile food 
 
 ![Summary Page](assets/summarypage.png)
 
-📁 How to Run
+📁 **How to Run**
 
-1. Clone the repository:
+Clone the repository:
    ```bash
-   git clone
+   git clone https://github.com/Akasshh02/KFC-Ordering-App-using-Pyqt5.git
    ```
+**About Me**
+**Akash
+Python Developer aspiring to Cloud Engineer
+I love combining clean UI with functional design to build professional-grade applications.**
+Connect with me:
+www.linkedin.com/in/akash-p-3639742b3
